@@ -1,0 +1,5 @@
+streamlit==1.50.0
+rdkit==2024.9.6
+py3dmol==2.5.5
+reportlab==4.2.5
+pillow
